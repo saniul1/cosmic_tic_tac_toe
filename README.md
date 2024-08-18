@@ -1,6 +1,6 @@
 # cosmic_tic_tac_toe
 
-A new Flutter project.
+A game of tic-tac-toe.
 
 ## Getting Started
 
